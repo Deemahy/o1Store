@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store.csproj", "{D69FDF5A-51D5-4C0A-84CF-6A586EE69EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreLogic_lib", "..\StoreLogic_lib\StoreLogic_lib.csproj", "{D5FF1D97-B3AC-4BDA-A3B4-1EC396CEE678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69FDF5A-51D5-4C0A-84CF-6A586EE69EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69FDF5A-51D5-4C0A-84CF-6A586EE69EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69FDF5A-51D5-4C0A-84CF-6A586EE69EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69FDF5A-51D5-4C0A-84CF-6A586EE69EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF1D97-B3AC-4BDA-A3B4-1EC396CEE678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF1D97-B3AC-4BDA-A3B4-1EC396CEE678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF1D97-B3AC-4BDA-A3B4-1EC396CEE678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF1D97-B3AC-4BDA-A3B4-1EC396CEE678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9066C8-63D4-4149-8205-2688E7033FB9}
+	EndGlobalSection
+EndGlobal

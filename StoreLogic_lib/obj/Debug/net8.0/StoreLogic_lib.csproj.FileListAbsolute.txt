@@ -1,0 +1,14 @@
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\bin\Debug\net8.0\StoreLogic_lib.deps.json
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\bin\Debug\net8.0\StoreLogic_lib.runtimeconfig.json
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\bin\Debug\net8.0\StoreLogic_lib.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\bin\Debug\net8.0\StoreLogic_lib.pdb
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.csproj.AssemblyReference.cache
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.AssemblyInfoInputs.cache
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.AssemblyInfo.cs
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.csproj.CoreCompileInputs.cache
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\refint\StoreLogic_lib.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.pdb
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.genruntimeconfig.cache
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\ref\StoreLogic_lib.dll
