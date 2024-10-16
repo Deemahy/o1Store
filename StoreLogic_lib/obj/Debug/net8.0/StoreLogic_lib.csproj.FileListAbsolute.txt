@@ -12,3 +12,4 @@ C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\
 C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.pdb
 C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.genruntimeconfig.cache
 C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\ref\StoreLogic_lib.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\StoreLogic_lib\obj\Debug\net8.0\StoreLogic_lib.sourcelink.json

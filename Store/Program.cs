@@ -1,11 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using StoreLogic_lib;
-
-using StoreLogic_lib.Data.DataBase;
-var builder = WebApplication.CreateBuilder(args);
+using StoreLogic_lib.Data.Database;
+//using StoreLogic_lib.Data.DataBase;
+var builder = WebApplication.CreateBuilder(args); 
 
 // Add services to the container.
-builder.Services.AddDbContext<StoreDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<StoreDbContext>(x => x.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddMediatR(x => x.RegisterServicesFromAssembly(typeof(StoreLogic).Assembly));
 
 builder.Services.AddControllers();
