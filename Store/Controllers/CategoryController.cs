@@ -40,5 +40,18 @@ namespace Store.Controllers
         return Ok(_mediatR.Send(new DeleteCatagoryCommand(id)));
         }
 
+        [HttpPut]
+        public async Task<IActionResult> UpDataCatagory(CategoryDTOs DTOs) {
+            return Ok(_mediatR.Send(new UpDataCategoryCommand(DTOs)));
+        
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetSingleCategory(int id )
+        {
+
+            return Ok(_mediatR.Send(new GetSingleCategoryQuery(id)));
+        }
+
     }
 }

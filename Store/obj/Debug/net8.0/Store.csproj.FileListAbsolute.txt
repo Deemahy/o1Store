@@ -147,3 +147,5 @@ C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\obj\Debug\net8.0\ref\Store
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\obj\Debug\net8.0\Store.sourcelink.json
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
