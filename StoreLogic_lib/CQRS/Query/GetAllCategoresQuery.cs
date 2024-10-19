@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace StoreLogic_lib.CQRS.Query
 {
-    public record GetAllCategoresQuery():IRequest <List<CategoryDTOs>>
+    public record GetAllCategoresQuery:IRequest <List<CategoryDTOs>>
     {
     }
 }

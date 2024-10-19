@@ -23,7 +23,7 @@ namespace StoreLogic_lib.CQRS.Handler
         public async Task<List<CategoryDTOs>> Handle(GetAllCategoresQuery request, CancellationToken cancellationToken)
         {
             var result = _db.Categories.ToList();
-            List<CategoryDTOs> categories = new List<CategoryDTOs>(); //didn't use   
+            List<CategoryDTOs> categories = new List<CategoryDTOs>();  
             if (result.Any())
             {
                 foreach (var category in result)

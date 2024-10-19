@@ -149,3 +149,5 @@ C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Castle.Co
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Elasticsearch.Net.dll
+C:\Users\Rog\Desktop\Api Test Project with CQRS\Store\bin\Debug\net8.0\Nest.dll

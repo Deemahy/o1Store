@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoreLogic_lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb477b2614771d38c84513963b99ff0147045921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60c9e4113535573432567bfbe595912abcde4d2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoreLogic_lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoreLogic_lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
