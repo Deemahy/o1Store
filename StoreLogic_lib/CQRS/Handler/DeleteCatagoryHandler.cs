@@ -25,7 +25,7 @@ namespace StoreLogic_lib.CQRS.Handler
 
             }
              _db.Categories.Remove(result);
-             _db.SaveChangesAsync(cancellationToken);
+             _db.SaveChangesAsync();
             return  await Task.FromResult(1);
         }
     }
