@@ -33,6 +33,7 @@ namespace StoreLogic_lib.CQRS.Handler
                     UserType = item.UserType,
                     ProfilePictureUrl = item.ProfilePictureUrl,
                     Status = item.Status,
+                    UserName = item.UserName,
                 };
 
                 userDTOs.Add(userDTO);

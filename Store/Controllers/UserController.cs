@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StoreLogic_lib.CQRS.Command;
 using StoreLogic_lib.CQRS.Query;
+using StoreLogic_lib.Data.DTOs;
 
 namespace Store.Controllers
 {
@@ -27,14 +28,14 @@ namespace Store.Controllers
             return Ok(_mediatR.Send(new GetSingleUserQuery(id)));
         }
         [HttpPost]
-        public async Task<IActionResult> AddUser()
+        public async Task<IActionResult> AddUser(UserDTOs DTOs)
         {
-            return Ok();
+            return Ok(_mediatR.Send(new AddUserCommand(DTOs)));
         }
         [HttpPut]
-        public async Task<IActionResult> UpDateUser()
+        public async Task<IActionResult> UpDateUser(UserDTOs DTOs)
         {
-            return Ok();
+            return Ok(_mediatR.Send(new UpDateUserCommand(DTOs)));
         }
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUser(int id )
